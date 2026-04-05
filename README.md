@@ -1,7 +1,6 @@
 # Http_lan
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Wokwi](https://img.shields.io/badge/Wokwi-Simulator-blue)
 ![IIoT](https://img.shields.io/badge/IIoT-Industrial_Internet_of_Things-darkgreen)
 ## Sobre 
 Projeto com o objetivo de conectar dois ESP32 por meio de uma rede local (LAN), permitindo a comunicação entre eles utilizando o protocolo HTTP, integrado a uma interface web responsável pelo controle do circuito físico, como o acionamento e desligamento de um LED.
