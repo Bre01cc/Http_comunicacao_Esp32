@@ -4,6 +4,7 @@
 ![IIoT](https://img.shields.io/badge/IIoT-Industrial_Internet_of_Things-darkgreen)
 ## Sobre 
 Projeto com o objetivo de conectar dois ESP32 por meio de uma rede local (LAN), permitindo a comunicação entre eles utilizando o protocolo HTTP, integrado a uma interface web responsável pelo controle do circuito físico, como o acionamento e desligamento de um LED.
+Disciplina ministrada pelo professora [Yuri Komuta](https://www.linkedin.com/in/yurikomuta/).
 
 ## Descrição
 O projeto consiste no desenvolvimento de um circuito capaz de monitorar a temperatura e a umidade do ambiente, exibindo essas informações em uma interface web.
