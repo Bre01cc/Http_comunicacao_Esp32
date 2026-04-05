@@ -18,7 +18,6 @@ Funcionamento do projeto em vídeo:
 ## Ferramentas
 - C++
 - Arduino IDE
-- Wokwi
 - ESP32
 
 ## Autor
